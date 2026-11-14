@@ -1,0 +1,22 @@
+# 运行时生成的用户数据（不要提交）
+已见单词.json
+错题.json
+界面配置.json
+运行日志.txt
+调试_答题.png
+日志/
+截图/
+
+# 一次性构建脚本的中间文件
+_ecdict_raw.csv
+词典.tsv.gz.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+deps/**/__pycache__/
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
